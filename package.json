@@ -1,0 +1,29 @@
+
+{                                                                                
+  "name": "be.elab.airstreamscan",                              
+  "displayName": "Three Points Scan Van Airstream",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Some scans done by using the tool Three Points scan of two Airstream Van. ",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{}, 
+   "samples": [
+    {
+        "displayName": "Sample Scene",
+        "description": "A sample scene to show how to use the package",
+        "path": "Scene/Demo"
+    }
+],
+  "author" : {
+"name":"Eloi Stree",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2025_03_23_ScanVanAirstream.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 
